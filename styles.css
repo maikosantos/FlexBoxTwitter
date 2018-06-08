@@ -30,7 +30,7 @@ header#main-header {
 header#main-header .content {
   display: flex;
   align-items: center;
-  align-content: space-between;
+  justify-content: space-between;
   height: 100%;
 }
 
@@ -86,7 +86,7 @@ header#main-header div.side button {
 
   display: flex;
   align-items: center;
-  align-content: center;
+  justify-content: center;
 
   width: 90px;
   font-weight: bold;
